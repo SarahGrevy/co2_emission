@@ -11,7 +11,7 @@ See project here: https://sarahgrevy.github.io/co2_emission
 
 ## Data:
 - co-emissions-per-capita.csv
-- 
+- Global_Carbon_Budget_2021v0.6.xlsx
 
 ## Analysis:
 - co2.ipynb
