@@ -10,6 +10,7 @@ See project here: https://sarahgrevy.github.io/co2_emission
 - While the Covid-19 pandemic might have offered a short-term reduction in global emissions, the pace at which countries are rebounding will likely outdo it.
 
 ## Data:
+- co-emissions-per-capita.csv
 - 
 
 ## Analysis:
